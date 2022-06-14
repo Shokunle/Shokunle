@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shokunle
+- 👀 I’m interested in Software Engineering 
+- 🌱 I’m currently learning online
+- 💞️ I’m looking to collaborate on how to work on projects given
+- 📫 How to reach me is Kunle Showunmi on slack
